@@ -1,1 +1,2 @@
-# SHIMMER
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
